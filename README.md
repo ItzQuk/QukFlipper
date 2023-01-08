@@ -7,5 +7,4 @@ The latest custom created files designed and coded by ItzQuk (which is why it's 
 
 **Included Files**
 
-Name | Description
----  ---
+- Rick Roll (Mac & Windows)
