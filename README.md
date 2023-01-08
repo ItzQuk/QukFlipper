@@ -1,10 +1,9 @@
 ![alt text](https://i.imgur.com/XD6ngzD.png)
 ---
 <p align="center">
-The latest custom created files designed and coded by ItzQuk (which is why it's called "QukFlipper") 
+The latest custom created files designed and coded by ItzQuk
 </p>
 
+## **Included Files**
 
-**Included Files**
-
-- Rick Roll (Mac & Windows)
+- [**`Rick Roll`** (Mac & Windows)](https://github.com/ItzQuk/QukFlipper/tree/main/Rick%20Roll)
