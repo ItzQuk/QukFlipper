@@ -8,7 +8,7 @@
 
 ### ![Infrared](https://i.imgur.com/sbDS645.png)
 
-- [**`Remotes`** A list of infared remotes](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/Remotes)
+- [**`Remotes`** A list of infared remotes](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/Infrared/Remotes)
 
 ### ![Sub-GHz](https://i.imgur.com/gzOQPxa.png)
 
