@@ -5,7 +5,7 @@
 
 ### ![Scripts](https://i.imgur.com/JueQkeA.png)
 
-- [**`Rick Roll`** (Mac & Windows)](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/BadUSB/Rick%20Roll) *These have **NOT** been tested!*
+- Coming Soon!
 
 ### ![Infrared](https://i.imgur.com/sbDS645.png)
 
