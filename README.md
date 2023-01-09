@@ -1,5 +1,6 @@
 ![alt text](https://i.imgur.com/XD6ngzD.png)
 ![alt text](https://i.imgur.com/60Rcxwg.png)
+[![Image](https://i.imgur.com/9TzkzfX.png)](https://discord.gg/75yHzF5Frm) [![Image](https://i.imgur.com/fXpTpe3.png)](https://www.twitter.com/ItzQuk)
 ---
 
 ### ![Scripts](https://i.imgur.com/JueQkeA.png)
