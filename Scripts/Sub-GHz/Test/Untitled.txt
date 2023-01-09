@@ -1,2 +1,0 @@
-DELAY 100
-STRING hello
