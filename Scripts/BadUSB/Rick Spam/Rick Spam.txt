@@ -1,0 +1,24 @@
+DELAY 70
+STRING Never gonna give you up
+DELAY 30
+ENTER
+DELAY 70
+STRING Never gonna let you down
+DELAY 30
+ENTER
+DELAY 70
+STRING Never gonna run around and desert you
+DELAY 30
+ENTER
+DELAY 70 
+STRING Never gonna make you cry
+DELAY 30
+ENTER
+DELAY 70
+STRING Never gonna say goodbye
+DELAY 30
+ENTER
+DELAY 70
+STRING Never gonna tell a lie and hurt you
+DELAY 30
+ENTER
