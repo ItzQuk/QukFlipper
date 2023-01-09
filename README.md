@@ -4,9 +4,9 @@
 ---
 
 
-### ![Scripts](https://i.imgur.com/JueQkeA.png)
+### ![BadUSB](https://i.imgur.com/JueQkeA.png)
 
-- Coming Soon!
+- [**`P1NG`** Spams "Ping! Pong!" until stopped](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/BadUSB)
 
 ### ![Infrared](https://i.imgur.com/sbDS645.png)
 
