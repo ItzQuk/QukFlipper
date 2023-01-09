@@ -5,14 +5,14 @@ The latest custom created files designed and coded by ItzQuk
 </p>
 
 
-# ![QukFlipper](https://i.imgur.com/z1P2y9I.png) Scripts / Files
+# ![QukFlipper](https://i.imgur.com/lphp7Eh.png)
 
 
-### ![QukFlipper](https://i.imgur.com/cPeIeca.png) **BadUSB**
+### ![QukFlipper](https://i.imgur.com/JueQkeA.png)
 
 - [**`Rick Roll`** (Mac & Windows)](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/Rick%20Roll) *These have **NOT** been tested!*
 
-### ![QukFlipper](https://i.imgur.com/cPeIeca.png) **Infared**
+### ![QukFlipper](https://i.imgur.com/sbDS645.png)
 - [**`Remotes`** A list of infared remotes](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/Remotes)
 
-### ![QukFlipper](https://i.imgur.com/cPeIeca.png) **Sub-GHz**
+### ![QukFlipper](https://i.imgur.com/gzOQPxa.png)
