@@ -12,7 +12,7 @@
 
 ### ![Sub-GHz](https://i.imgur.com/gzOQPxa.png)
 
-- Coming Soon!
+- [**`Tesla Ports`** Use WITH caution!](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/Sub-GHz/Tesla)
 
 ### ![Apps](https://i.imgur.com/PTBL20O.png)
 
