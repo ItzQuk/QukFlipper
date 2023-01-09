@@ -14,3 +14,5 @@ The latest custom created files designed and coded by ItzQuk
 
 ### **Infared**
 - [**`Remotes`** A list of infared remotes](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/Remotes)
+
+### **Sub-GHz**
