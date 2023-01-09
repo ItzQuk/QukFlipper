@@ -1,10 +1,6 @@
 ![alt text](https://i.imgur.com/XD6ngzD.png)
 ![alt text](https://i.imgur.com/60Rcxwg.png)
 ---
-<p align="center">
-Custom Scripts created by @ItzQuk
-</p>
-
 
 # ![QukFlipper](https://i.imgur.com/lphp7Eh.png)
 
