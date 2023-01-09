@@ -11,4 +11,3 @@ The latest custom created files designed and coded by ItzQuk
 ### **BadUSB**
 
 - [**`Rick Roll`** (Mac & Windows)](https://github.com/ItzQuk/QukFlipper/tree/main/Rick%20Roll) *These have **NOT** been tested!*
-- [**`FaceTime`** (Mac ONLY)]
