@@ -1,5 +1,0 @@
-DELAY 600
-GUI space
-DELAY 300
-STRING Never Gonna Give You Up!!!
-DELAY 300
