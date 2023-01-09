@@ -2,7 +2,7 @@
 ![alt text](https://i.imgur.com/60Rcxwg.png)
 ---
 <p align="center">
-The latest custom created files designed and coded by ItzQuk
+Custom Scripts created by @ItzQuk
 </p>
 
 
