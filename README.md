@@ -7,6 +7,7 @@
 ### ![BadUSB](https://i.imgur.com/JueQkeA.png)
 
 - [**`P1NG`** Spams "Ping! Pong!" until stopped](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/BadUSB)
+- [**`FITNESS`** Sends the entire Fitness Gram Pacer Test "Copypasta"](https://github.com/ItzQuk/QukFlipper/blob/main/Scripts/BadUSB/FITNESS.txt)
 
 ### ![Infrared](https://i.imgur.com/sbDS645.png)
 
