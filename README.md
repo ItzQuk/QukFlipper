@@ -11,3 +11,4 @@ The latest custom created files designed and coded by ItzQuk
 ### **BadUSB**
 
 - [**`Rick Roll`** (Mac & Windows)](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/Rick%20Roll) *These have **NOT** been tested!*
+- [**`Remotes`**](https://github.com/ItzQuk/QukFlipper/tree/main/Scripts/Remotes)
